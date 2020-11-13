@@ -1,2 +1,2 @@
 # Find-Edam-Thumb
-made.Edam Thumbnail Extractor
+Edam Mall Thumbnail Extractor

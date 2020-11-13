@@ -1,0 +1,22 @@
+C:\Users\Colour\AppData\Local\Temporary Projects\FindEdam\bin\Debug\FindEdam.exe.config
+C:\Users\Colour\AppData\Local\Temporary Projects\FindEdam\bin\Debug\FindEdam.exe
+C:\Users\Colour\AppData\Local\Temporary Projects\FindEdam\bin\Debug\FindEdam.pdb
+C:\Users\Colour\AppData\Local\Temporary Projects\FindEdam\bin\Debug\FindEdam.xml
+C:\Users\Colour\AppData\Local\Temporary Projects\FindEdam\obj\Debug\FindEdam.vbprojResolveAssemblyReference.cache
+C:\Users\Colour\AppData\Local\Temporary Projects\FindEdam\obj\Debug\FindEdam.Form1.resources
+C:\Users\Colour\AppData\Local\Temporary Projects\FindEdam\obj\Debug\FindEdam.Resources.resources
+C:\Users\Colour\AppData\Local\Temporary Projects\FindEdam\obj\Debug\FindEdam.vbproj.GenerateResource.Cache
+C:\Users\Colour\AppData\Local\Temporary Projects\FindEdam\obj\Debug\FindEdam.exe
+C:\Users\Colour\AppData\Local\Temporary Projects\FindEdam\obj\Debug\FindEdam.xml
+C:\Users\Colour\AppData\Local\Temporary Projects\FindEdam\obj\Debug\FindEdam.pdb
+E:\Dev\FindEdam\FindEdam\bin\Debug\FindEdam.exe.config
+E:\Dev\FindEdam\FindEdam\bin\Debug\FindEdam.exe
+E:\Dev\FindEdam\FindEdam\bin\Debug\FindEdam.pdb
+E:\Dev\FindEdam\FindEdam\bin\Debug\FindEdam.xml
+E:\Dev\FindEdam\FindEdam\obj\Debug\FindEdam.vbprojResolveAssemblyReference.cache
+E:\Dev\FindEdam\FindEdam\obj\Debug\FindEdam.Form1.resources
+E:\Dev\FindEdam\FindEdam\obj\Debug\FindEdam.Resources.resources
+E:\Dev\FindEdam\FindEdam\obj\Debug\FindEdam.vbproj.GenerateResource.Cache
+E:\Dev\FindEdam\FindEdam\obj\Debug\FindEdam.exe
+E:\Dev\FindEdam\FindEdam\obj\Debug\FindEdam.xml
+E:\Dev\FindEdam\FindEdam\obj\Debug\FindEdam.pdb
